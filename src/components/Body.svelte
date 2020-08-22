@@ -1,6 +1,6 @@
 <script>
 import Slotify from "../lib/slotify/components/Slotify.svelte";
 </script>
-<Slotify target="body">
+<Slotify name="body">
     <slot></slot>
 </Slotify>
